@@ -1,0 +1,74 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "posted_at": "2019-05-23",
+      "description": "StubHub Concert Tickets: Beyonce @ Barclay's Center",
+      "category": "Entertainment",
+      "amount": -58900
+    },
+    {
+      "id": 2,
+      "posted_at": "2019-05-23",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 100000
+    },
+    {
+      "id": 3,
+      "posted_at": "2019-05-23",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -1050
+    },
+    {
+      "id": 4,
+      "posted_at": "2019-05-22",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -1050
+    },
+    {
+      "id": 5,
+      "posted_at": "2019-05-22",
+      "description": "Netflix Monthly Subscription",
+      "category": "Entertainment",
+      "amount": -899
+    },
+    {
+      "id": 6,
+      "posted_at": "2019-05-20",
+      "description": "Dope Jean Jacket, Gap co.",
+      "category": "Fashion",
+      "amount": -6900
+    },
+    {
+      "id": 7,
+      "posted_at": "2019-05-20",
+      "description": "Sunglasses, Urban Outfitters",
+      "category": "Fashion",
+      "amount": -2499
+    },
+    {
+      "id": 8,
+      "posted_at": "2019-05-19",
+      "description": "Venmo",
+      "category": "Food",
+      "amount": 875
+    },
+    {
+      "id": 9,
+      "posted_at": "2019-05-19",
+      "description": "Chipotle",
+      "category": "Food",
+      "amount": -1750
+    },
+    {
+      "id": 10,
+      "posted_at": "2019-05-17",
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 5000
+    }
+  ]
+}
