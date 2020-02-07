@@ -3,12 +3,13 @@ import React, { Component } from 'react';
 class Transaction extends Component {
 
   render() {
+    let {posted_at, description, category, amount} = this.props.transactionObjects
     return (
       <tr className={""}>
-        <td>{"Render the Time"}</td>
-        <td>{"Render the Description"}</td>
-        <td>{"Render the Category"}</td>
-        <td>{"Render the Amount"}</td>
+        <td>{posted_at}</td>
+        <td>{description}</td>
+        <td>{category}</td>
+        <td>{amount}</td>
       </tr>
     );
   }
