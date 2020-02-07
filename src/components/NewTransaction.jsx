@@ -2,6 +2,15 @@ import React, { Component } from 'react';
 
 class NewTransaction extends Component {
 
+  let newTransactionObj = 
+  {
+    posted_at:
+    description:
+    category:
+    amount: 
+    
+  }
+  {}
   render() {
     return (
       <div className="ui segment">
@@ -51,3 +60,5 @@ class NewTransaction extends Component {
 }
 
 export default NewTransaction;
+
+//The keys have to match the value 
